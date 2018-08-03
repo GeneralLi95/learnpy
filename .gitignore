@@ -3,3 +3,5 @@
 py_web/.DS_Store
 *.xml
 .DS_Store
+*.iml
+.idea/learnpy.iml
