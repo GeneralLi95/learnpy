@@ -18,5 +18,5 @@ if __name__ == "__main__":
         a = input("请输入参数a ")
         b = input("请输入参数b ")
 
-    print(a, b)
+    print(a + b)
     print(sys.argv)
